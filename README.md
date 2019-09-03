@@ -7,6 +7,6 @@ See code/convert_sprue_data.py for some code to convert images from svs into jpg
 ### 2. Generating overlay grids for annotations
 Use code/overlay.py to generate overlay and then ask the pathologist to pick an appropriate grid size for annotations. This size should be small enough to distinguish the tumor from the benigh tissue but not too small so as to save the time for annotations.
 
-### 3. More to come
+### 3. More to come ...
 
 
